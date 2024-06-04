@@ -1,0 +1,121 @@
+body {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.iconos {
+    display: flex;
+    background-color: rgb(68, 67, 67);
+    padding: 20px 50px 20px 0;
+    text-transform:uppercase;
+} 
+.iconos img {
+    width: 70px;
+    height: 50px;
+    position: absolute;
+    padding: 0 0 0 20px;
+}
+
+ul{
+    display: flex;
+    margin-left: 77%;
+    list-style: none;
+}
+
+ul a{
+    text-decoration: none;
+    padding: 0 30px 0 30px;
+    color:rgb(116, 237, 100);
+
+} 
+
+form {
+    display: block;
+    float: right;
+    margin: 20px 20px 0 0;
+    background-color: darkgray;
+    border-radius: 20px;
+}
+
+.titulo2 {
+    margin: 20px;
+}
+
+h1 {
+    color: rgb(255, 0, 242);
+    font-size: 50px;
+    margin: 0;
+}
+
+h2 {
+    color: rgb(116, 62, 37);
+    font-size: 40px;
+    margin: 0;
+}
+
+.titulo2 img {
+    width: 440px;
+}
+
+.texto{
+    display: block;
+    width: 480px;
+    padding: 20px 40px 20px 10px;
+    margin: 40px;
+}
+
+.boton {
+    background-color: brown;
+    width: 500px;
+    margin: 0 0 20px 60px;
+    color: white;
+    font-size: 35px;
+    border: none;
+    border-radius: 30px;
+}
+
+.label {
+    font-size: 30px;
+    padding: 0 0 0 40px;
+    color: white;
+}
+
+
+.boton2 {
+    display: flex;
+    margin: 0 10vh 0 30vh;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.boton2 img {
+    display: flex;
+    height: 25px;
+    width: 50px;
+}
+
+.user {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+}
+
+.user img {
+    width: 70px;
+    height: 50px;
+}
+
+footer {
+    margin: 0 0 0 20px;
+}
+
+.redes h3{
+    display: flex;
+    justify-content: center;
+}
+
+.redes2 {
+    text-align: center;
+
+}
